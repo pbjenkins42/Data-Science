@@ -1,6 +1,6 @@
 # Industrial Vending Demand Forecasting
 
-This project builds a time series forecasting model to optimize inventory management for industrial vending machines. It leverages historical dispensing and restocking data to predict future demand at the SKU and device level.
+This project builds a time series forecasting model to optimize inventory management for industrial vending machines. It leverages historical dispensing and restocking data to predict future demand at the SKU and device level. This project is still a work in process.
 
 ## Problem Statement
 
